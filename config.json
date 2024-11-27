@@ -1,0 +1,8 @@
+{
+    "num_devices": 10,
+    "temperature_min": -10,
+    "temperature_max": 50,
+    "humidity_min": 0,
+    "humidity_max": 100,
+    "frequency_seconds": 2
+}
